@@ -4,4 +4,4 @@ __Autor:__ Andrés Merlo Trujillo
 
 Versión sin *assets*, solo con el código fuente en C++ y blueprints. No es compilable.
 
-Para la versión compilable diríjase al siguiente enlace: <https://drive.google.com/drive/folders/1dwZoSL7Hh45YKErOJHgY3C89RtYpUBlG?usp=sharing>
+Para la versión compilable diríjase al siguiente enlace: <https://drive.google.com/drive/folders/1IMfOaRbsSh-8Qe3ljleEMrliyAg34N_d?usp=sharing>
